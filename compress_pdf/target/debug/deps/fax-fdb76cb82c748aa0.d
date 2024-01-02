@@ -1,0 +1,11 @@
+C:\@MyDevSpace\rust-apps\compress_pdf\target\debug\deps\libfax-fdb76cb82c748aa0.rmeta: C:\Users\PauloRobertoSpiguel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\fax-0.2.0\src\lib.rs C:\Users\PauloRobertoSpiguel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\fax-0.2.0\src\maps.rs C:\Users\PauloRobertoSpiguel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\fax-0.2.0\src\decoder.rs C:\Users\PauloRobertoSpiguel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\fax-0.2.0\src\encoder.rs C:\Users\PauloRobertoSpiguel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\fax-0.2.0\src\tiff.rs
+
+C:\@MyDevSpace\rust-apps\compress_pdf\target\debug\deps\libfax-fdb76cb82c748aa0.rlib: C:\Users\PauloRobertoSpiguel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\fax-0.2.0\src\lib.rs C:\Users\PauloRobertoSpiguel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\fax-0.2.0\src\maps.rs C:\Users\PauloRobertoSpiguel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\fax-0.2.0\src\decoder.rs C:\Users\PauloRobertoSpiguel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\fax-0.2.0\src\encoder.rs C:\Users\PauloRobertoSpiguel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\fax-0.2.0\src\tiff.rs
+
+C:\@MyDevSpace\rust-apps\compress_pdf\target\debug\deps\fax-fdb76cb82c748aa0.d: C:\Users\PauloRobertoSpiguel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\fax-0.2.0\src\lib.rs C:\Users\PauloRobertoSpiguel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\fax-0.2.0\src\maps.rs C:\Users\PauloRobertoSpiguel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\fax-0.2.0\src\decoder.rs C:\Users\PauloRobertoSpiguel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\fax-0.2.0\src\encoder.rs C:\Users\PauloRobertoSpiguel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\fax-0.2.0\src\tiff.rs
+
+C:\Users\PauloRobertoSpiguel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\fax-0.2.0\src\lib.rs:
+C:\Users\PauloRobertoSpiguel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\fax-0.2.0\src\maps.rs:
+C:\Users\PauloRobertoSpiguel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\fax-0.2.0\src\decoder.rs:
+C:\Users\PauloRobertoSpiguel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\fax-0.2.0\src\encoder.rs:
+C:\Users\PauloRobertoSpiguel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\fax-0.2.0\src\tiff.rs:

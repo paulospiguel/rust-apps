@@ -1,0 +1,9 @@
+C:\@MyDevSpace\rust-apps\compress_pdf\target\debug\deps\snafu_derive-81cb85745428d045.dll: C:\Users\PauloRobertoSpiguel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\snafu-derive-0.7.5\src\lib.rs C:\Users\PauloRobertoSpiguel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\snafu-derive-0.7.5\src\parse.rs C:\Users\PauloRobertoSpiguel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\snafu-derive-0.7.5\src\shared.rs C:\Users\PauloRobertoSpiguel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\snafu-derive-0.7.5\src\report.rs C:\Users\PauloRobertoSpiguel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\snafu-derive-0.7.5\src\report\yes_async.rs
+
+C:\@MyDevSpace\rust-apps\compress_pdf\target\debug\deps\snafu_derive-81cb85745428d045.d: C:\Users\PauloRobertoSpiguel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\snafu-derive-0.7.5\src\lib.rs C:\Users\PauloRobertoSpiguel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\snafu-derive-0.7.5\src\parse.rs C:\Users\PauloRobertoSpiguel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\snafu-derive-0.7.5\src\shared.rs C:\Users\PauloRobertoSpiguel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\snafu-derive-0.7.5\src\report.rs C:\Users\PauloRobertoSpiguel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\snafu-derive-0.7.5\src\report\yes_async.rs
+
+C:\Users\PauloRobertoSpiguel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\snafu-derive-0.7.5\src\lib.rs:
+C:\Users\PauloRobertoSpiguel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\snafu-derive-0.7.5\src\parse.rs:
+C:\Users\PauloRobertoSpiguel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\snafu-derive-0.7.5\src\shared.rs:
+C:\Users\PauloRobertoSpiguel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\snafu-derive-0.7.5\src\report.rs:
+C:\Users\PauloRobertoSpiguel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\snafu-derive-0.7.5\src\report\yes_async.rs:
